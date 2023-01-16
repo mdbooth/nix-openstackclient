@@ -35,5 +35,6 @@
           }
         )
       );
+      defaultPackage = openstackPython;
     };
 }
